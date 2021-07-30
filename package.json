@@ -1,6 +1,6 @@
 {
   "name": "@xingzhi2107/eslint-config-xingzhi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "my eslint config",
   "main": "index.js",
   "repository": "https://github.com/xingzhi2107/eslint-config-xingzhi.git",
